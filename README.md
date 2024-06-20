@@ -48,3 +48,9 @@ Overall Architecture
 Building Blocks
 ---
 ![img2](img2.png)
+
+
+
+** ALL RIGHTS RESERVED **
+
+2023131031@yonsei.ac.kr
