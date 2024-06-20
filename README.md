@@ -51,6 +51,6 @@ Building Blocks
 
 
 
-** ALL RIGHTS RESERVED **
+**ALL RIGHTS RESERVED**
 
 2023131031@yonsei.ac.kr
