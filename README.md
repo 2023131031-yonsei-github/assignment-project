@@ -17,3 +17,4 @@ However, LinNet Model Uses a huge accumulation layer, or network to imitate this
 
 How LinNet Works
 ---
+<image scr = "img1.png"> </image>
