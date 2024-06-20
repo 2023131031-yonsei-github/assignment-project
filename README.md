@@ -103,11 +103,11 @@ Dataset Used : CIFAR-10
 **Result**
 
   Freeze Learning
-  - Epoch 1: Training  Accuracy: 30%~ / Test Accuracy: 40%~
-  - Epoch 3~5 : Training Accuracy: 60%~ / Test Accuracy: 60%~
+  - Epoch 1: Training  Accuracy: 30%\~ / Test Accuracy: 40%\~
+  - Epoch 3\~5 : Training Accuracy: 60%\~ / Test Accuracy: 60%\~
   
   Melt Learning
-  - Epoch 5~10: Training Accuracy: 75%~ / Test Accuracy: 75%~
+  - Epoch 5\~10: Training Accuracy: 75%\~ / Test Accuracy: 75%\~
 
 ---
 Result shows that it reached above 75% of the accuracy on CIFAR-10, which was similar to the ResNetV2-r50x1 model from BiT that was trained on the same environment.
